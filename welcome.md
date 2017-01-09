@@ -5,6 +5,8 @@
 
 * Start downloading the [Ubuntu ISO](https://www.ubuntu.com/download/desktop)
 
+* Send me via DM in slack a screenshot of your python lesson "syllabus" page
+
 ### While you wait
 Get to know your neighbor! This class is collaborative, we're all going to be working together throughout the class - in person, on slack, on github, etc.
 
