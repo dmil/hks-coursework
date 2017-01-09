@@ -380,7 +380,7 @@ Bonus
 	curl https://raw.githubusercontent.com/AlJohri/house-expenditures/master/2015Q4-detail.csv >> 2015spending.csv
 	```
 
-	Notice that use of `>>` allows us to keep appending to the same file.
+Notice that use of `>>` allows us to keep appending to the same file.
 
 
 Super Duper Bonus
@@ -388,7 +388,8 @@ Super Duper Bonus
 	```
 	curl https://raw.githubusercontent.com/AlJohri/house-expenditures/master/2015Q{1,2,3,4}}-detail.csv > 2015spending.csv
 	```
-	Some more advance usage of curl, downloads from all URLs matching the pattern.
+	
+Some more advance usage of curl, downloads from all URLs matching the pattern.
 
 ## CSVKit, Sed, Awk, Data Manipulation
 
