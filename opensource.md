@@ -4,7 +4,13 @@ Spend at least two hours reading selections from the following reading list. Som
 
 ## Topic Assignment
 
-Your group assignment can be found in slack in the #general channel.
+Your group assignment can be found in slack in the #general channel. Topic areas are:
+1. business case / cost - discuss the cost advantages of open source software for a congressional office
+2. ethics - discuss the ethics-related issues of adopting open source software for a congressional office
+3. maintainance of open source software - discuss the advantages for maintaining software that is open source
+4. open source software and security - discuss the security implications of open source software
+
+Remember in each topic you are going to be arguing *for* the adoption of open source.
 
 ## Artifacts
 1. Discuss in a slack channel (either #opensource or you can make your own for example #opensource-security if the #opensource channel is getting noisy and you want to discuss security in particular)
