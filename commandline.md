@@ -372,6 +372,7 @@ Create a new folder called `congress` and download the data:
 	```
 
 Bonus
+
 	```
 	curl https://raw.githubusercontent.com/AlJohri/house-expenditures/master/2015Q1-detail.csv >> 2015spending.csv
 	curl https://raw.githubusercontent.com/AlJohri/house-expenditures/master/2015Q2-detail.csv >> 2015spending.csv
