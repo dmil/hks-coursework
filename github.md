@@ -328,16 +328,16 @@ What is open source?
     * https://en.wikipedia.org/wiki/Open-source_software_development#Model
 * Open Source Intro / Philosophy
     * http://www.dreamsongs.com/IHE/IHE-27.html
-    * https://opensource.org/osd
+    * **(required)**https://opensource.org/osd
 * Open vs Free
-    * https://www.gnu.org/philosophy/open-source-misses-the-point.en.html
+    * **(required)**https://www.gnu.org/philosophy/open-source-misses-the-point.en.html
     * https://www.ubuntu.com/about/about-ubuntu/our-philosophy
     * https://web.kamihq.com/web/viewer.html?state=%7B%22ids%22%3A%5B%220B69u3oA7bfllZFRBdzFvNmk1M0k%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22108443026002436873308%22%7D&filename=s00481ed1v01y201302wbe005.pdf - chapter 7
 FLOSS/FOSS in Government
 * DOD
-    * http://dodcio.defense.gov/Open-Source-Software-FAQ/#Defining_Open_Source_Software_.28OSS.29
+    * **(required)**http://dodcio.defense.gov/Open-Source-Software-FAQ/#Defining_Open_Source_Software_.28OSS.29
 * Whitehouse
-    * https://www.whitehouse.gov/blog/2016/03/09/leveraging-american-ingenuity-through-reusable-and-open-source-software
+    * **(required)**https://www.whitehouse.gov/blog/2016/03/09/leveraging-american-ingenuity-through-reusable-and-open-source-software
     * https://sourcecode.cio.gov/
     * https://www.whitehouse.gov/sites/default/files/omb/memoranda/2016/m-16-12_1.pdf
 * HHS
@@ -356,7 +356,7 @@ FLOSS/FOSS in Government
     * http://crookedtimber.org/2012/07/03/a-database-of-folly/
 * Ethics
     *  [Senate ethics code of conduct summary - ("gifts" page)](http://www.ethics.senate.gov/public/index.cfm/files/serve?File_id=1aec2c45-aadf-46e3-bb36-c472bcbed20f)
-    * [House Ethics - Gifts](https://ethics.house.gov/gifts/house-gift-rule)
+    * **(required)**[House Ethics - Gifts](https://ethics.house.gov/gifts/house-gift-rule)
     * [White House Open Source Policy](https://sourcecode.cio.gov/)
     * [Open Source Software in House Press Release](http://congressionaldata.org/open-source-software-now-permitted-in-the-u-s-house-of-representatives-2/)
     * https://blog.jcoglan.com/2013/11/15/why-github-is-not-your-cv/
