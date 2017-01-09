@@ -2,12 +2,19 @@
 
 Spend at least two hours reading selections from the following reading list. Some of the selections are required, others are optional. Required selections are marked as such. This should not be the end of your reading, this list is just a place to begin. Once you've done some general reading, focus your reading on the issue that your group has been assigned to debate.
 
+## Topic Assignment
+
+Your group assignment can be found in slack in the #general channel.
 
 ## Artifacts
-1. Slack channel for your debate group
-2. An outline of your opening arguments for tomorrow
-3. A list of personal questions or disucssion points for tomrrow about anything your reading, not limited to your debate group.
+1. Discuss in a slack channel (either #opensource or you can make your own for example #opensource-security if the #opensource channel is getting noisy and you want to discuss security in particular)
+2. An outline of your opening arguments for tomorrow (bullet points will be fine, please be detailed)
 
+The prompt is as follows:
+
+Assume Seamus (our guest speaker tomorrow) is the head of a congressional office who is resistant to open source software and you are a member of his staff. You are to convince seamus that your office should use open source software. You will focus on the topic area assigned to you.
+
+3. A list of personal questions or disucssion points for tomrrow about anything you're reading or anything that we have learned so far.
 
 ## Reading List
 What is open source?
