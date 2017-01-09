@@ -16,5 +16,6 @@ file | description
 [commandline.md](commandline.md) | Command Line and Unix
 [simplepythonprogram.md](simplepythonprogram.md)| Simple Python Program
 [github.md](github.md) | Git and Github
+[opensource.md](opensource.md) | Open source homework assignment.
 
 Homework - Preparation for Debate with Seamus on Open Source
