@@ -21,7 +21,7 @@ What is open source?
     * **(required)**https://opensource.org/osd
 * Open vs Free
     * **(required)**https://www.gnu.org/philosophy/open-source-misses-the-point.en.html
-    * https://www.ubuntu.com/about/about-ubuntu/our-philosophy
+    * **(required)**https://www.ubuntu.com/about/about-ubuntu/our-philosophy
     * https://web.kamihq.com/web/viewer.html?state=%7B%22ids%22%3A%5B%220B69u3oA7bfllZFRBdzFvNmk1M0k%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22108443026002436873308%22%7D&filename=s00481ed1v01y201302wbe005.pdf - chapter 7
 FLOSS/FOSS in Government
 * DOD
