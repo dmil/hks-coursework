@@ -12,7 +12,7 @@ Your group assignment can be found in slack in the #general channel.
 
    > The prompt is as follows:
    >
-   > Assume Seamus (our guest speaker tomorrow) is the head of a congressional office who is resistant to open source software and you are a member of his staff. You are to convince seamus that your office should use open source software. You will focus on the topic area assigned to you.
+   > Assume Seamus (our guest speaker tomorrow) is the head of a congressional office who is resistant to open source software and you are a member of his staff. You are to convince Seamus that your office should use open source software. You will focus on the topic area assigned to you. Topic assignments can be found in slack in the #general channel.
 
 3. A list of personal questions or disucssion points for tomrrow about anything you're reading or anything that we have learned so far.
 
