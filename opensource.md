@@ -2,12 +2,25 @@
 
 Spend at least two hours reading selections from the following reading list. Some of the selections are required, others are optional. Required selections are marked as such. This should not be the end of your reading, this list is just a place to begin. Once you've done some general reading, focus your reading on the issue that your group has been assigned to debate.
 
+## Topic Assignment
+
+Your group assignment can be found in slack in the #general channel. Topic areas are:
+1. business case / cost - discuss the cost advantages of open source software for a congressional office
+2. ethics - discuss the ethics-related issues of adopting open source software for a congressional office
+3. maintainance of open source software - discuss the advantages for maintaining software that is open source
+4. open source software and security - discuss the security implications of open source software
+
+Remember in each topic you are going to be arguing *for* the adoption of open source.
 
 ## Artifacts
-1. Slack channel for your debate group
-2. An outline of your opening arguments for tomorrow
-3. A list of personal questions or disucssion points for tomrrow about anything your reading, not limited to your debate group.
+1. Discuss in a slack channel (either #opensource or you can make your own for example #opensource-security if the #opensource channel is getting noisy and you want to discuss security in particular)
+2. An outline of your opening arguments for tomorrow (bullet points will be fine, please be detailed)
 
+   > The prompt is as follows:
+   >
+   > Assume Seamus (our guest speaker tomorrow) is the head of a congressional office who is resistant to open source software and you are a member of his staff. You are to convince Seamus that your office should use open source software. You will focus on the topic area assigned to you. Topic assignments can be found in slack in the #general channel.
+
+3. A list of personal questions or disucssion points for tomrrow about anything you're reading or anything that we have learned so far.
 
 ## Reading List
 What is open source?
@@ -21,7 +34,7 @@ What is open source?
     * **(required)**https://opensource.org/osd
 * Open vs Free
     * **(required)**https://www.gnu.org/philosophy/open-source-misses-the-point.en.html
-    * https://www.ubuntu.com/about/about-ubuntu/our-philosophy
+    * **(required)**https://www.ubuntu.com/about/about-ubuntu/our-philosophy
     * https://web.kamihq.com/web/viewer.html?state=%7B%22ids%22%3A%5B%220B69u3oA7bfllZFRBdzFvNmk1M0k%22%5D%2C%22action%22%3A%22open%22%2C%22userId%22%3A%22108443026002436873308%22%7D&filename=s00481ed1v01y201302wbe005.pdf - chapter 7
 FLOSS/FOSS in Government
 * DOD
