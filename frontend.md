@@ -2,7 +2,26 @@
 
 ## HTML
 
+## Some HTML Tags to Know
 
+Headers
+```
+<h1> Header 1 </h1>
+<h2> </h2>
+<h3> </h3>
+<h4> </h4>
+```
+
+Paragraph
+```
+<p> This text is inside a paragraph </p>
+```
+
+Links
+
+```
+<a href="http://google.com"> Click Here to go to Google </a>
+```
 
 
 ## Try It
@@ -22,10 +41,6 @@
 	</body>
 	</html>
 	```
-
-
-
-
 
 ## CSS
 
