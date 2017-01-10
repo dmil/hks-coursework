@@ -14,8 +14,18 @@ file | description
 -----|------------
 [welcome.md](welcome.md) | Introduction
 [commandline.md](commandline.md) | Command Line and Unix
-[simplepythonprogram.md](simplepythonprogram.md)| Simple Python Program
-[github.md](github.md) | Git and Github
+
+
+## Homework
+
+file | description
+-----|------------
 [opensource.md](opensource.md) | Open source homework assignment.
 
-Homework - Preparation for Debate with Seamus on Open Source
+
+# Day 2
+
+file | description
+-----|------------
+[simplepythonprogram.md](simplepythonprogram.md)| Simple Python Program
+[github.md](github.md) | Git and Github
