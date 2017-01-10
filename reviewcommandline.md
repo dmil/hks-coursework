@@ -46,7 +46,6 @@ mv <from> <to> # move a file or directory
 	
 	This is my python-playground, a place where I keep some simple python scripts as I learn python.
 	
-	
 	```
 
 * Create a new file called `hello.py`
@@ -56,3 +55,10 @@ mv <from> <to> # move a file or directory
 	print "Hello, World!"
 	```
 
+* Run the file from the command line as follows
+
+	```
+	python hello.py
+	```
+	
+This should print "Hello, World!" to the terminal
