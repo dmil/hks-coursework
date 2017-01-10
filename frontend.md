@@ -66,6 +66,12 @@ https://bl.ocks.org/mbostock/3902569
 
 Commit the change to github.
 
+### Bonus
+Add two buttons to your page, one to show the chart and one to hide it
+
+### Super duper bonus
+Make those into one button that toggles show/hide of the chart
+
 ## Organizing your Code
 
 [https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
