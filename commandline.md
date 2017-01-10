@@ -445,25 +445,6 @@ Spend some time playing around with these tools, come up with an interesting lin
 * Add a shebang (or hash bang)
 * set it to executable and run it
 
-
-## Try It
-
-* Navigate to your `Development/` folder in the terminal
-* Create a directory called `dhrumil-simple-website/` (BUT USE YOUR OWN NAME!!!!)
-* Open a command line text edtor and put a simple HTML page in it called `index.html`
-* In a command line text editor, add this simple HTML code.
-
-	```
-	<!DOCTYPE html>
-	<html>
-	<body>
-	
-	<h1>Hello,World</h1>
-		
-	</body>
-	</html>
-	```
-
 ## Dangers
 The terminal is a powerful tool (especially in linux)
 [http://www.howtogeek.com/125157/8-deadly-commands-you-should-never-run-on-linux/](http://www.howtogeek.com/125157/8-deadly-commands-you-should-never-run-on-linux/)
