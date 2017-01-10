@@ -15,13 +15,11 @@ file | description
 [welcome.md](welcome.md) | Introduction
 [commandline.md](commandline.md) | Command Line and Unix
 
-
 ## Homework
 
 file | description
 -----|------------
 [opensource.md](opensource.md) | Open source homework assignment.
-
 
 # Day 2
 
