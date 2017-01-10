@@ -27,4 +27,6 @@ file | description
 file | description
 -----|------------
 [reviewcommandline.md](reviewcommandline.md)| Review Command Line Concepts
+[functions.md](functions.md)| Review Functions
 [github.md](github.md) | Git and Github
+[frontend.md](frontend.md) | HTML, CSS, and JavaScript
