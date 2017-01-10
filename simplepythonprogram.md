@@ -1,18 +1,5 @@
 # Simple Python Command Line Program
 
-## TODO
-Install Python
-### Mac
-
-```
-brew install python2
-```
-
-### Ubuntu
-
-```
-sudo apt-get install python2
-```
 
 ## Hello World
 
