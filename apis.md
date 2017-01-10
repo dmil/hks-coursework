@@ -1,17 +1,5 @@
 # APIs (Application Programming Interface)
 
-## Reading
-* [Aaron Swartz’s A Programmable Web](https://goo.gl/L21hJQ): Chapter 1 -"Introduction: A Programmable Web"
-* [Aaron Swartz’s A Programmable Web](https://goo.gl/L21hJQ): Chapter 4 - Following REST
-* [Aaron Swartz’s A Programmable Web](https://goo.gl/L21hJQ): Chapter 5 - BUILDING A PLATFORM: PROVIDING APIS
-* [REST API Design - Resource Modeling](https://www.thoughtworks.com/insights/blog/rest-api-design-resource-modeling) (Thoughtworks)
-* Roy Fielding's Disseration [[Chapter 5](http://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm#sec_5_2_1_1)]
-* Roy Fielding's Disseration [[Chapter 6](http://www.ics.uci.edu/~fielding/pubs/dissertation/evaluation.htm#sec_6_2)]
-* Programmable Web - [https://www.programmableweb.com/about](https://www.programmableweb.com/about)
-* Programmable Web (API University) - [https://www.programmableweb.com/api-university](https://www.programmableweb.com/api-university) 
-* APIs that suck [video] - [https://www.infoq.com/presentations/API-design-mistakes](https://www.infoq.com/presentations/API-design-mistakes)
-* [https://micropurchase.18f.gov/](https://micropurchase.18f.gov/)
-
 ## TODO
 * Download some chrome extensions: [http://slides.com/dhrumilmehta/how-to-tell-a-story-with-data-tools-of-the-trade#/6/1](http://slides.com/dhrumilmehta/how-to-tell-a-story-with-data-tools-of-the-trade#/6/1)
 

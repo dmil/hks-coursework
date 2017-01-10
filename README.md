@@ -30,3 +30,8 @@ file | description
 [functions.md](functions.md)| Review Functions
 [github.md](github.md) | Git and Github
 [frontend.md](frontend.md) | HTML, CSS, and JavaScript
+
+## Homework
+file | description
+-----|------------
+[apireadings.md](apireadings.md) | APIs
