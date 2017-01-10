@@ -26,5 +26,5 @@ file | description
 
 file | description
 -----|------------
-[simplepythonprogram.md](simplepythonprogram.md)| Simple Python Program
+[reviewcommandline.md](reviewcommandline.md)| Review Command Line Concepts
 [github.md](github.md) | Git and Github
