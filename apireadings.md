@@ -4,6 +4,11 @@
 
 2) Post at least one comment and one response to someone else in two separate slack channels. There are several to chose from covering all the topics we have worked on so far.
 
+3) Push your simple website code to github: [Link to "Try It"](https://github.com/dmil/hks-coursework/blob/master/github.md#try-it-3)
+
+4) [Optional "Try It"](https://github.com/dmil/hks-coursework/blob/master/github.md#try-it-optional
+) to reinforce your learning
+
 ## Reading
 * **(required)** [Aaron Swartz’s A Programmable Web](https://goo.gl/L21hJQ): Chapter 1 -"Introduction: A Programmable Web"
 * [Aaron Swartz’s A Programmable Web](https://goo.gl/L21hJQ): Chapter 4 - Following REST
