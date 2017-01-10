@@ -2,7 +2,8 @@
 
 ## HTML
 
-https://developer.mozilla.org/en-US/docs/Learn/HTML
+[https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
+)
 
 ## Try It
 
@@ -24,7 +25,7 @@ https://developer.mozilla.org/en-US/docs/Learn/HTML
 
 ## CSS
 
-https://developer.mozilla.org/en-US/docs/Learn/CSS
+[https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
 
 ## Try It
 
@@ -36,6 +37,20 @@ body {
 }
 ```
 
+## JavaSript
+
+[https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+
+## Try It
+
+
+
+## Organizing your Code
+
+[https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
+
+
+
 ##### Try It
 
 1. Go to https://jsfiddle.net/
@@ -44,6 +59,27 @@ body {
 	```
 	asdfasdfasdf
 	```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ##### Example of using Google Maps
 
