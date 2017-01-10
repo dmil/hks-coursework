@@ -72,7 +72,8 @@ FLOSS/FOSS in Government
 non-us
 
 * https://www.gov.uk/service-manual/technology/working-with-open-standards
-* https://www.gov.uk/service-manual/making-software/open-source.html
+* https://www.gov.uk/service-manual/service-standard/make-all-new-source-code-open
+* https://www.gov.uk/service-manual/technology/making-source-code-open-and-reusable
 * http://meity.gov.in/content/free-and-open-source-software
 * https://hackerone.com/resources/hack-the-pentagon
 * https://timreview.ca/article/130
