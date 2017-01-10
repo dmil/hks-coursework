@@ -366,9 +366,30 @@ Images below sourced from [David Brumly at Carnegie Mellon University](https://w
 3. Push your repo up to github
 
 ## Try It
-1. Create a blank github repo for your `dhrumil-simple-website`
+1. Create a [blank github repo](https://github.com/new) for your `dhrumil-simple-website` if you haven't already.
 2. Set the remote on your local repo to this new repo on github
 3. Push your repo up to github
+
+## Try It (optional)
+1. cd into your directory `~/Development/universe`
+2. run `pwd` and `ls` to remind yourself where you are and what is there
+3. intitialize a git repository in the folder
+
+	```
+	git init
+	```
+4. add all of the files in this folder to the staging area. The way to add all the files rather than one at a time is:
+	```
+	git add .
+	```
+5. commit this data with the commit message "create a folder structure that represents the universe"
+	```
+	git commit -m "create a folder structure that represents the universe"
+	```
+6. do a `git log` to make sure you committed properly and a `git status` to make sure there are no new changes
+7. Create a [blank github repo](https://github.com/new) called "universe"
+8. set your remotes (follow the instructions in the new github repository)  
+9. check out your repository by refereshing the page in github
 
 ## Try It
 http://slides.com/dhrumilmehta/how-to-tell-a-story-with-data-tools-of-the-trade-2#/4/10
@@ -376,7 +397,6 @@ http://slides.com/dhrumilmehta/how-to-tell-a-story-with-data-tools-of-the-trade-
 ## Serving static websites from GitHub
 
 Together we will go through how to serve up your simple website.
-
 
 ## Forking
 
