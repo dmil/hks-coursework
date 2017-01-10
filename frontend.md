@@ -1,5 +1,7 @@
 # Front-End Stack
 
+Find a dataset that is a timeseries. We're going to visualize it in a webpage.
+
 ## HTML
 
 [https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
@@ -7,35 +9,30 @@
 
 ## Try It
 
-* Navigate to your `~/Development/` folder in the terminal
-* Create a directory called `dhrumil-simple-website/` (BUT USE YOUR OWN NAME!!!!)
-* Open a command line text edtor and put a simple HTML page in it called `index.html`
-* In a command line text editor, add this simple HTML code.
+1. Build a simple webiste with a header and a paragraph tag that describe your dataset.
 
-	```
-	<!DOCTYPE html>
-	<html>
-	<body>
-
-	<h1>Hello,World</h1>
-
-	</body>
-	</html>
-	```
+commit this to github
 
 ## CSS
 
 [https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
 
+
 ## Try It
 
-http://www.w3schools.com/colors/colors_names.asp
+Give the page a nice background color. These are all valid color names [http://www.w3schools.com/colors/colors_names.asp
+](http://www.w3schools.com/colors/colors_names.asp
+) or you can use a specific RGB value. Many of these values are well known to designers.
 
+<!--
 ```
 body {
     background-color: PaleTurquoise;
 }
 ```
+-->
+
+commit the change to github
 
 ## JavaSript
 
@@ -43,72 +40,32 @@ body {
 
 ## Try It
 
+Create a button that displays an alert. An example can be found here.
 
+https://jsfiddle.net/Lwje81ae/2/
+
+commit this change to github
+
+
+## D3 JS
+
+[https://d3js.org/](https://d3js.org/)
+
+[https://github.com/d3/d3/wiki/Gallery](https://github.com/d3/d3/wiki/Gallery)
+
+[http://ruoyusun.com/2014/05/26/what-d3js-is-not.html](http://ruoyusun.com/2014/05/26/what-d3js-is-not.html
+)
+
+Grammar of Graphics
+
+## Try It
+
+Add this D3 Visualization to your webpage to visualize a timeseries.
+
+https://bl.ocks.org/mbostock/3902569
+
+Commit the change to github.
 
 ## Organizing your Code
 
 [https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
-
-
-
-##### Try It
-
-1. Go to https://jsfiddle.net/
-2. In HTML add:
-	
-	```
-	asdfasdfasdf
-	```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-##### Example of using Google Maps
-
-http://jsfiddle.net/yo3wjwfe/2/
-
-![](http://i.imgur.com/mbKi2YY.png)
-
-##### Example of an Ugly Geocities Esque Page
-
-If you're replicating this example, it's important to change the "Load Type" in jsfiddle to "No Wrap - in <head>". This is so the `onclick` handler of the button can have access to the javascript functions.
-
-https://jsfiddle.net/Lwje81ae/2/
-
-![](http://i.imgur.com/zV7tiA2.png)
-
-## JavaScript
-
-make a button
-
-### Vanilla JS
-
-### JS in the Console
-
-### JS Packages
-
-### JS Frameworks
-
-## DOM
-
-## CSS Selectors
-
-https://jsfiddle.net/
