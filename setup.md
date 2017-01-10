@@ -11,11 +11,27 @@
 
 	`brew install tree`
 	
-3. Install git
+3. Discuss what this is doing with a fellow mac user, then do it
+	
+	First run this in the terminal: ```touch ~/.bash_profile```
+	
+	Then open your `~/.bash_profile` file and place the following snippet at the bottom
+	
+	```
+	PS1='\[\033[01;32m\]\h\[\033[01;34m\] \w #\[\033[00m\] '
+	```
+	
+	This exports the environment variable `PS1` which controls how your terminal display looks. All of the code inside your `~/.bash_profile` file is run every time you open a terminal.
+	
+	Modifying the `PS1` environment variable as you just did creates this nice prompt that tells you where you are as you move around directories:
+	
+	![](https://www.evernote.com/shard/s150/sh/3d3a8926-0860-4ccc-9577-1d75647e775c/eb541349138e8ca7/res/9fbf1858-d65c-46bc-a655-b0e2543e5154/skitch.png?resizeSmall&width=832)
+	
+4. Install git
 
 	`brew install git`
 
-4. Install python, and python's package manager (called pip). For mac, pip is included in the python package in homebrew.
+5. Install python, and python's package manager (called pip). For mac, pip is included in the python package in homebrew.
 
 	```
 	brew install python
