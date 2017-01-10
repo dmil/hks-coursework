@@ -8,6 +8,7 @@ file | description
 -----|------------
 [syllabus.pdf](./syllabus.pdf) | Syllabus
 [precoursework.md](precoursework.md) | Pre-work
+[setup.md](setup.md) | Setup
 
 # Day 1
 file | description

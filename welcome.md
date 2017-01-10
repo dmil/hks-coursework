@@ -1,9 +1,6 @@
 # Welcome
 
 ## TODO:
-* Download [Virtualbox](https://www.virtualbox.org/wiki/Downloads)
-
-* Start downloading the [Ubuntu ISO](https://www.ubuntu.com/download/desktop)
 
 * Send me via DM in slack a screenshot of your python lesson "syllabus" page
 
