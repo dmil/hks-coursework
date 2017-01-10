@@ -24,14 +24,13 @@
 
 ##### Try It
 
-	http://www.w3schools.com/colors/colors_names.asp
+http://www.w3schools.com/colors/colors_names.asp
 
-	```
-	body {
-		background-color: PaleTurquoise;
-	}
-
-	```
+```
+body {
+    background-color: PaleTurquoise;
+}
+```
 
 ##### Try It
 
