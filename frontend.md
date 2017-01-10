@@ -2,31 +2,9 @@
 
 ## HTML
 
-## Some HTML Tags to Know
+https://developer.mozilla.org/en-US/docs/Learn/HTML
 
-Headers
-
-```
-<h1> Header 1 </h1>
-<h2> </h2>
-<h3> </h3>
-<h4> </h4>
-```
-
-Paragraph
-
-```
-<p> This text is inside a paragraph </p>
-```
-
-Links
-
-```
-<a href="http://google.com"> Click Here to go to Google </a>
-```
-
-
-##### Try It
+## Try It
 
 * Navigate to your `~/Development/` folder in the terminal
 * Create a directory called `dhrumil-simple-website/` (BUT USE YOUR OWN NAME!!!!)
@@ -46,7 +24,9 @@ Links
 
 ## CSS
 
-##### Try It
+https://developer.mozilla.org/en-US/docs/Learn/CSS
+
+## Try It
 
 http://www.w3schools.com/colors/colors_names.asp
 
