@@ -5,6 +5,7 @@
 ## Some HTML Tags to Know
 
 Headers
+
 ```
 <h1> Header 1 </h1>
 <h2> </h2>
@@ -13,6 +14,7 @@ Headers
 ```
 
 Paragraph
+
 ```
 <p> This text is inside a paragraph </p>
 ```
