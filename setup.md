@@ -15,6 +15,12 @@
 
 	`brew install git`
 
+4. Install python, and python's package manager (called pip). For mac, pip is included in the python package in homebrew.
+
+	```
+	brew install python
+	```
+
 ## Ubuntu
 
 2. In the terminal run the following command to update your package manager.
@@ -29,6 +35,13 @@
 
 	`sudo apt-get install  git`
 	
+4. Install python, and python's package manager (called pip)
+
+	```
+	sudo apt-get install python
+	sudo apt-get install python-pip
+	```
+
 ## Windows
 
 If you're on windows, please boot in ubuntu inside a virtual box and then follow the ubuntu instructions.
