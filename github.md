@@ -86,14 +86,48 @@ Section borrowed from [AlJohri](https://github.com/AlJohri/DAT-DC-12/blob/master
 ## Try It (Together)
 
 1. Initialize a git repo inside your `python-playground/` folder.
+
+	``` 
+	git init 
+	```
+
 2. Add each file as a separate commit.
+
+	```
+	git add hello.py
+	git commit -m "add a hello world python script"
+	
+	git add calculator.py
+	git commit -m "add a simple python calculator script"
+	```
+
 4. Show me the git log
+
+	```
+	git log
+	```
+
 
 ## Try It
 
-1. Initialize a git repo inside your `myname-simple-website/` folder (where `myname` is your first name)
-2. Commit the "hello world" webpage
-3. Add a heading and paragraph tag
+1. Navigate to your `~/Development/` folder in the terminal
+2. Create a directory called `dhrumil-simple-website/` (BUT USE YOUR OWN NAME!!!!)
+3. Create a new page called `index.html` with the `touch` command
+4. In a text editor, add this simple HTML code.
+
+	```
+	<!DOCTYPE html>
+	<html>
+	<body>
+
+	<h1>Hello,World</h1>
+
+	</body>
+	</html>
+	```
+4. Double click on that file to view it in a web browser (you can refresh the page to view it again after you add new code)
+
+5. Add a heading and paragraph tag
 
 	```
 	<!DOCTYPE html>
@@ -108,8 +142,8 @@ Section borrowed from [AlJohri](https://github.com/AlJohri/DAT-DC-12/blob/master
 	</body>
 	</html>
 	```
-3. Commit this with a meaningful commit message.
-4. Show me the git log
+6. Commit this with a meaningful commit message.
+7. Show me the git log
 
 ## Branching
 
@@ -125,7 +159,6 @@ Create a new Branch
 git checkout -b <branchname>
 ```
 
-
 Delete Branches
 
 ```
@@ -136,13 +169,97 @@ More on Branches
 
 http://slides.com/dhrumilmehta/how-to-tell-a-story-with-data-tools-of-the-trade-2#/4/13
 
-## Try It (Together)
-1. in `python-playground/` create a new branch called `add-comments`
+### Try It (Together)
+1. Look at the branches in your git repo
+
+	```
+	git branch
+	```
+
+2. in `python-playground/` create a new branch called `add-comments`
+
+	```
+	git checkout -b add-comments
+	```
+	
 2. make sure you're on that branch
-2. open up your hello world script
-3. add a comment before each line of code
+
+	```
+	git branch
+	```
+
+2. open up your `hello.py` script and add a comment before each line of code so that it looks like this
+	
+	```
+	# This python program demonstrates how to print a string.
+	print "Hello World"
+	```
+
+3. open up your `calculator` script and add a comment before the main part of the code that calls the function.
+	
+	```
+	def multiply(x,y):
+		return x*y
+		
+	def add(x,y):
+		return x+y
+		
+	def subtract(x,y):
+		return x-y
+		
+	def divide(x,y):
+		return x/y
+		
+	# This calculator is currently set to print  what it is doing and then multiply two numbers.
+	print "I'm going to multiply 5 and 6"
+	x = multiply(5,6)
+	print x	
+	```
+
+
 4. commit the change in your new branch
+
+	```
+	git commit -m "added comments to python code"
+	```
 5. notice how this change doesn't exist in your "master" branch.
+
+### Try It
+
+Now add docstrings to the functions in the calculator like so
+
+	```
+	def multiply(x,y):
+		"""
+		This function multiplies two arguments
+		"""
+		return x*y
+		
+	def add(x,y):
+		"""
+		This function adds two arguments
+		"""
+		return x+y
+		
+	def subtract(x,y):
+		"""
+		This function subtracts two arguments
+		"""
+		return x-y
+		
+	def divide(x,y):
+		"""
+		This function divides two arguments
+		"""
+		return x/y
+		
+		# This calculator is currently set to print  what it is doing and then multiply two numbers.
+		print "I'm going to multiply 5 and 6"
+	x = multiply(5,6)
+	print x	
+	```
+
+commit this change in your `add-comments` branch
 
 ### Branches IRL (In Real Life)
 
@@ -248,7 +365,6 @@ Images below sourced from [David Brumly at Carnegie Mellon University](https://w
 2. Set the remote on your local repo to this new repo on github
 3. Push your repo up to github
 
-
 ## Try It
 1. Create a blank github repo for your `dhrumil-simple-website`
 2. Set the remote on your local repo to this new repo on github
@@ -261,10 +377,6 @@ http://slides.com/dhrumilmehta/how-to-tell-a-story-with-data-tools-of-the-trade-
 
 Together we will go through how to serve up your simple website.
 
-## Try It
-
-1. Create a "github page" for yourself
-2. (optional) - buy a domain for yourself at [http://namecheap.com](http://namecheap.com). When we get to the "DevOps" lesson, you'll learn how to connect your new domain to either a static or dynamic webpage.
 
 ## Forking
 
@@ -287,10 +399,31 @@ http://slides.com/dhrumilmehta/how-to-tell-a-story-with-data-tools-of-the-trade-
 3. put a link to your simple website next to your number
 4. Issue a pull request back to me from your fork.
 
+## Collaboration with Branches on GitHub
+
 ## Try It
 
-1. Find another partner, and fork their simple webpage.
-2. Put an endorsement on their webpage but this time via a fork as if you were an open source collaborator (outside of their organization).
+1. Clone my simple website
+2. Checkout a branch for yourself
+	
+	```
+	git checkout -b dhrumils-branch
+	```
+
+3. Inside that branch, convert your name into a link to your github
+
+	so for example instead of 
+	```
+	<li> Mehta, Dhrumil </li>
+	```
+	
+	I would write
+	```
+	</li> <a href="http://github.com/dmil"> Mehta, Dhrumil </a> </li>
+	```
+	
+4. Commit that change
+5. Issue a pull request back to the `master` branch with your change.
 
 ## Pull requests from a fork
 
@@ -308,3 +441,27 @@ Pull Request (From a Fork)
 
 https://github.com/powmedia/backbone-forms/pull/538
 
+## Try It (together)
+
+1. Find another partner, and fork their simple webpage into your github.
+2. Clone your fork onto your local computer
+3. Put an endorsement on their webpage as the last item on the site.
+
+	```
+	<h2> Endorsements </h2>
+	
+	<p> You are a really cool person. - Dhrumil</p>
+	```
+4. commit this endorsement and push it to your fork in github
+5. issue a pull request back to that person's github repo
+
+## Try It
+
+Put an endorsement on someone else's site.
+
+## Finally
+
+1. Create a "github page" for yourself [https://pages.github.com/](https://pages.github.com/) - follow the instructions for a "User"
+2. Chose Jekyll Theme to instantly make it look good
+https://github.com/blog/2295-new-theme-chooser-for-github-pages
+2. (optional) - buy a domain for yourself at [http://namecheap.com](http://namecheap.com). When we get to the "DevOps" lesson, you'll learn how to connect your new domain to either a static or dynamic webpage.
