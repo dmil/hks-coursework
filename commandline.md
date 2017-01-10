@@ -434,17 +434,6 @@ Spend some time playing around with these tools, come up with an interesting lin
 
 [Vim vs. Emacs](https://en.wikipedia.org/wiki/Editor_war)
 
-## Try It
-* Navigate to your `Development/` folder in the terminal
-* Create a directory called `python-playground`
-* Write a python program that prints "Hello, World!"
-* Save the program as `hello.py`
-* Run it and show me
-
-### Bonus
-* Add a shebang (or hash bang)
-* set it to executable and run it
-
 ## Dangers
 The terminal is a powerful tool (especially in linux)
 [http://www.howtogeek.com/125157/8-deadly-commands-you-should-never-run-on-linux/](http://www.howtogeek.com/125157/8-deadly-commands-you-should-never-run-on-linux/)
