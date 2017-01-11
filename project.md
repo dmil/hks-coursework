@@ -22,11 +22,8 @@ Your team will select one or many datasets, and create a dynamic web application
 ### Data Modeling
 
 ### Building a Back-End
-
 #### Database
-
 #### Flask App (API)
-
 #### Devops / Deployment
 
 ### Building a Front-End
@@ -74,11 +71,11 @@ Along with the users, you will submit a few "User Stories". Some of the user sto
 >so that ____. 
 
 ### Sprint Planning
-Your team will hold a sprint-planning meeting at the start of the project period. This meeting will be split into two parts as described in "SCRUM: A Breathtakingly Brreif and Agile Introduction". Re-read the section on sprint planning before starting this meeting.
+Your team will hold a sprint-planning meeting at the start of the project period. This meeting will be split into two parts as described in "SCRUM: A Breathtakingly Breif and Agile Introduction". Re-read the section on sprint planning before starting this meeting.
 
 During the first part of the meeting the team will collectively decide how much they think they can accomplish.
 
-During the second part, you will break the stories down into tasks and put them on a trello board. Everyone on the team will assign tasks to themselves.
+During the second part, you will break the stories down into tasks and put them on a trello board. Everyone on the team will assign tasks to themselves. This will involve a round of scrum "poker".
 
 ### Sprint Review
 
