@@ -37,7 +37,7 @@ file | description
 # Day 3
 file | description
 -----|------------
+[apis.md](apis.md) | APIs
 [github.md](github.md) | Git and Github
 [frontend.md](frontend.md) | HTML, CSS, and JavaScript
-[apis.md](apis.md) | APIs
 [functions.md](functions.md)| Review Functions

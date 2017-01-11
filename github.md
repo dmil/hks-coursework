@@ -94,11 +94,11 @@ Section borrowed from [AlJohri](https://github.com/AlJohri/DAT-DC-12/blob/master
 2. Add each file as a separate commit.
 
 	```
+	git add README.md
+	git commit -m "add a README describing what this  repository is for."
+	
 	git add hello.py
 	git commit -m "add a hello world python script"
-	
-	git add calculator.py
-	git commit -m "add a simple python calculator script"
 	```
 
 4. Show me the git log
@@ -106,7 +106,6 @@ Section borrowed from [AlJohri](https://github.com/AlJohri/DAT-DC-12/blob/master
 	```
 	git log
 	```
-
 
 ## Try It
 
@@ -125,9 +124,12 @@ Section borrowed from [AlJohri](https://github.com/AlJohri/DAT-DC-12/blob/master
 	</body>
 	</html>
 	```
+	
 4. Double click on that file to view it in a web browser (you can refresh the page to view it again after you add new code)
 
-5. Add a heading and paragraph tag
+5. Commit to github what you have so far.
+
+6. Add a heading and paragraph tag
 
 	```
 	<!DOCTYPE html>
@@ -142,8 +144,8 @@ Section borrowed from [AlJohri](https://github.com/AlJohri/DAT-DC-12/blob/master
 	</body>
 	</html>
 	```
-6. Commit this with a meaningful commit message.
-7. Show me the git log
+7. Commit this with a meaningful commit message.
+8. Show me the git log
 
 ## Branching
 
@@ -195,34 +197,12 @@ http://slides.com/dhrumilmehta/how-to-tell-a-story-with-data-tools-of-the-trade-
 	print "Hello World"
 	```
 
-3. open up your `calculator` script and add a comment before the main part of the code that calls the function.
-	
-	```
-	def multiply(x,y):
-		return x*y
-		
-	def add(x,y):
-		return x+y
-		
-	def subtract(x,y):
-		return x-y
-		
-	def divide(x,y):
-		return x/y
-		
-	# This calculator is currently set to print  what it is doing and then multiply two numbers.
-	print "I'm going to multiply 5 and 6"
-	x = multiply(5,6)
-	print x	
-	```
-
-
-4. commit the change in your new branch
+3. commit the change in your new branch
 
 	```
 	git commit -m "added comments to python code"
 	```
-5. notice how this change doesn't exist in your "master" branch.
+4. notice how this change doesn't exist in your "master" branch.
 
 ### Try It
 
