@@ -127,7 +127,9 @@ This would both print to the terminal and return a value. The return is the very
 9. Accept the pull request into the master branch and delete the `calculator` branch on github.
 
 10. Delete the `calculator` branch locally
-
+	```
+	git branch -D calculator
+	```
 **bonus**
 
 1. Add two more functions, square and cube.
@@ -163,3 +165,6 @@ This would both print to the terminal and return a value. The return is the very
 9. Accept the pull request into the master branch and delete the `js-calculator` branch on github.
 
 10. Delete the `js-calculator` branch locally
+	```
+	git branch -D js-calculator
+	```
