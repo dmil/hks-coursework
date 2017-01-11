@@ -204,43 +204,6 @@ http://slides.com/dhrumilmehta/how-to-tell-a-story-with-data-tools-of-the-trade-
 	```
 4. notice how this change doesn't exist in your "master" branch.
 
-### Try It
-
-Now add docstrings to the functions in the calculator like so
-
-	```
-	def multiply(x,y):
-		"""
-		This function multiplies two arguments
-		"""
-		return x*y
-		
-	def add(x,y):
-		"""
-		This function adds two arguments
-		"""
-		return x+y
-		
-	def subtract(x,y):
-		"""
-		This function subtracts two arguments
-		"""
-		return x-y
-		
-	def divide(x,y):
-		"""
-		This function divides two arguments
-		"""
-		return x/y
-		
-		# This calculator is currently set to print  what it is doing and then multiply two numbers.
-		print "I'm going to multiply 5 and 6"
-	x = multiply(5,6)
-	print x	
-	```
-
-commit this change in your `add-comments` branch
-
 ### Branches IRL (In Real Life)
 
 Branches are frequently used to develop features on a project. People can work independently in branches and then issue a pull request back into master. That pull request is reviewed and merged into the branch.
@@ -371,37 +334,13 @@ Images below sourced from [David Brumly at Carnegie Mellon University](https://w
 8. set your remotes (follow the instructions in the new github repository)  
 9. check out your repository by refereshing the page in github
 
-## Try It
-http://slides.com/dhrumilmehta/how-to-tell-a-story-with-data-tools-of-the-trade-2#/4/10
-
 ## Serving static websites from GitHub
 
 Together we will go through how to serve up your simple website.
 
-## Forking
-
-Draw on the board, forking vs branching
-
-http://slides.com/dhrumilmehta/how-to-tell-a-story-with-data-tools-of-the-trade-2#/4/17
-
-### Key Terms
-
-* **fork** - make a copy of a remote repo on github.
-* **merge**  - taking two histories, merge one into the other
-* **push**   - sending changes to a remote repository and merging them into the specified branch
-* **pull request** - ask the upstream maintainer to pull in changes from origin.
-* **merge conflict** - when two commits conflict, and thus can't be merged automatically
-
-## Try It (together)
-
-1. Fork my simple webste (dhrumil's)
-2. Assign everyone a number
-3. put a link to your simple website next to your number
-4. Issue a pull request back to me from your fork.
-
 ## Collaboration with Branches on GitHub
 
-## Try It
+### Try It
 
 1. Clone my simple website
 2. Checkout a branch for yourself
@@ -421,9 +360,22 @@ http://slides.com/dhrumilmehta/how-to-tell-a-story-with-data-tools-of-the-trade-
 	```
 	</li> <a href="http://github.com/dmil"> Mehta, Dhrumil </a> </li>
 	```
-	
 4. Commit that change
 5. Issue a pull request back to the `master` branch with your change.
+
+## Forking
+
+Draw on the board, forking vs branching
+
+http://slides.com/dhrumilmehta/how-to-tell-a-story-with-data-tools-of-the-trade-2#/4/17
+
+### Key Terms
+
+* **fork** - make a copy of a remote repo on github.
+* **merge**  - taking two histories, merge one into the other
+* **push**   - sending changes to a remote repository and merging them into the specified branch
+* **pull request** - ask the upstream maintainer to pull in changes from origin.
+* **merge conflict** - when two commits conflict, and thus can't be merged automatically
 
 ## Pull requests from a fork
 
@@ -457,7 +409,7 @@ https://github.com/powmedia/backbone-forms/pull/538
 
 ## Try It
 
-Put an endorsement on someone else's site.
+Put an endorsement on someone else's site using the same method, forking and open source collaboration.
 
 ## Finally
 
