@@ -42,6 +42,8 @@ file | description
 [github.md](github.md) | Git and Github
 [frontend.md](frontend.md) | HTML, CSS, and JavaScript
 
-
-
-[functions.md](functions.md)| Review Functions
+## Homework
+file | description
+-----|------------
+[functions.md](functions.md) | Functions in Python & JavaScript
+[http://jsforcats.com/](http://jsforcats.com/) | Intro to JavaScript
