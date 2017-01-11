@@ -33,9 +33,6 @@ instead of returning HTML, you’ll want to return JSON instead.
 >
 > \- [Swartz (Chapter 5)](http://www.morganclaypool.com/doi/pdf/10.2200/S00481ED1V01Y201302WBE005)
 
-## 
-
-
 ## Resources
 
 > “The key abstraction of information in REST is a resource. Any information that can be named can be a resource: a document or image, a temporal service (e.g. "today's weather in Los Angeles"), a collection of other resources, a non-virtual object (e.g. a person), and so on. In other words, any concept that might be the target of an author's hypertext reference must fit within the definition of a resource. A resource is a conceptual mapping to a set of entities, not the entity that corresponds to the mapping at any particular point in time.” - Roy Fielding’s dissertation.
@@ -112,18 +109,13 @@ source: [http://www.tcpipguide.com/free/t_HTTPRequestMessageFormat.htm](http://w
 ![](https://www.evernote.com/shard/s150/sh/0d7425f7-0bf0-4a50-8d98-22e1b939fe8b/3b47367c30172152/res/6c5f88d6-3869-4e0b-873e-1a918718eab5/skitch.png?resizeSmall&width=832)
 source: http://slides.com/dhrumilmehta/how-to-tell-a-story-with-data-tools-of-the-trade#/6/5
 
-### Querying Crunchbase with Postman
+### The network tab! (lets explore it for a minute)
 
-#### Try It (Together)
+### Open the network tab and inspect crunchbase
 
-#### Try It 
+Lets see if crunchbase is as well structured as it looks! What happens when you load the page for a resource?
 
-### Querying Crunchbase with Python
-
-
-#### Try It (Together)
-
-#### Try It 
+https://www.crunchbase.com/person/mark-zuckerberg/
 
 ## Another Case Study: The FEC
 Browse the Beta FEC website ([https://beta.fec.gov/](https://beta.fec.gov/))
@@ -154,20 +146,26 @@ Make a database diagram for the FEC API (talk about the word "Model") - talk bre
 	# Get a list of candidates from georgia by hitting the candidates/ endpoint
 	candidates = []
 	
-	r = requests.get("https://api.open.fec.gov/v1/candidates/?api_key=DEMO_KEY&per_page=20&state=GA&sort=name&candidate_status=C&page=1")
-	
-	# Hmm, that only gets me the first page of candidates, I guess I'll have to loop through all the pages to make a list of candidates.
+	# Loop through all the pages to get a list of candidates
 	page = 1
-	while r.json()["results"] != []:
-		r = requests.get("https://api.open.fec.gov/v1/candidates/?api_key=DEMO_KEY&per_page=20&state=GA&sort=name&candidate_status=C&page=" + page)
-		candidates.append(r.json())
-		page = page + 1
+	on_last_page = false
+	while !on_last_page:
+		url = ""https://api.open.fec.gov/v1/candidates/?api_key=DEMO_KEY&per_page=20&state=GA&sort=name&candidate_status=C&page=" + page
+		response = requests.get(url)
+		for candidate in response.json():
+			candidates.append(candidate)
+
+		page = page+1
 	```
 
-	Plan out in the comments each individual step of how you will get the data. You can write a little python too wherever you think you might know how to do the thing needed. Your finished product will look something like what you see above. Write only as much python as you're comfortable with (that may just be `import requests`, that's okay). But try to think through in comments what you would need to do to answer your question.
+	Plan out in the comments each individual step of how you will get the data. You can write a little python too wherever you think you might know how to do the thing needed. Your finished product will look something like what you see above. Write only as much python as you're comfortable with (that may just be `import requests`, that's okay). But try to think through in comments what you would need to do to answer your question. Which endpoints would you have to hit? How would you have to combine the data?
+	
+	- Push this file to github
 
 ## Using APIs (IRL)
 
+* For machines to read data
+* Building datasets (not quite the intended use case)
 
 ## Other cool APIs
 
@@ -175,13 +173,11 @@ Make a database diagram for the FEC API (talk about the word "Model") - talk bre
 * [http://elections.huffingtonpost.com/pollster/api](http://elections.huffingtonpost.com/pollster/api)
 * [https://developer.nytimes.com/](https://developer.nytimes.com/)
 
-
 ## More about APIs
 
 ![](https://www.evernote.com/shard/s150/sh/e700e882-9ada-44b0-8f0e-aef58f2a1f39/bf14351db3d329e4/res/d4b5c513-f127-4268-b312-9af0059a9123/skitch.png?resizeSmall&width=832)
 
 source: [https://www.infoq.com/presentations/API-design-mistakes](https://www.infoq.com/presentations/API-design-mistakes)
-
 
 ## JSON/XML
 
@@ -210,6 +206,3 @@ probably just about the worst format for sharing data. Here’s why:
 
 
 [Aaron Swartz’s A Programmable Web](https://goo.gl/L21hJQ): Chapter 5 - BUILDING A PLATFORM: PROVIDING APIS 
-
-
-
