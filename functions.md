@@ -26,7 +26,7 @@ brew install node
 Ubuntu 
 
 ```
-sudo apt-get install node
+sudo apt-get install nodejs
 ```
 
 ## Defining a function
