@@ -125,31 +125,36 @@ source: http://slides.com/dhrumilmehta/how-to-tell-a-story-with-data-tools-of-th
 
 #### Try It 
 
+## Another Case Study: The FEC
+Browse the Beta FEC website ([https://beta.fec.gov/](https://beta.fec.gov/))
 
-## Another Case Study: The FEC API
+Open the network tab and see how when you get each page, it makes a request to the FEC API.
 
+Now check out the FEC Api that the site is consuming ([https://api.open.fec.gov/developers/](https://api.open.fec.gov/developers/))
 
+Make a database diagram for the FEC API (talk about the word "Model") - talk breifly about MVC.
 
+### Querying the FEC API
 
-## REST (Representational State Transfer)
+#### Try It (together)
 
-![](https://www.evernote.com/shard/s150/sh/e700e882-9ada-44b0-8f0e-aef58f2a1f39/bf14351db3d329e4/res/d4b5c513-f127-4268-b312-9af0059a9123/skitch.png?resizeSmall&width=832)
+#### Try It
 
-source: [https://www.infoq.com/presentations/API-design-mistakes](https://www.infoq.com/presentations/API-design-mistakes)
-
-## Parsing JSON in Python
-
-## Huffpost API
-
-## FEC API
-
-## Try It
-Collect 
+#### Activity where you plan out how you'd answer a question in comments in python.
 
 ## Other cool APIs
 
 * [https://www.propublica.org/datastore/apis](https://www.propublica.org/datastore/apis)
 * [http://elections.huffingtonpost.com/pollster/api](http://elections.huffingtonpost.com/pollster/api)
+* [https://developer.nytimes.com/](https://developer.nytimes.com/)
+
+
+## More about APIs
+
+![](https://www.evernote.com/shard/s150/sh/e700e882-9ada-44b0-8f0e-aef58f2a1f39/bf14351db3d329e4/res/d4b5c513-f127-4268-b312-9af0059a9123/skitch.png?resizeSmall&width=832)
+
+source: [https://www.infoq.com/presentations/API-design-mistakes](https://www.infoq.com/presentations/API-design-mistakes)
+
 
 ## JSON/XML
 
