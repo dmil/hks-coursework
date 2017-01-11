@@ -37,7 +37,11 @@ file | description
 # Day 3
 file | description
 -----|------------
+[day3setup.md](day3setup.md) | Set up for today
 [apis.md](apis.md) | APIs
 [github.md](github.md) | Git and Github
 [frontend.md](frontend.md) | HTML, CSS, and JavaScript
+
+
+
 [functions.md](functions.md)| Review Functions
