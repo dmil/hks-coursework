@@ -26,6 +26,28 @@ def search(endpoint, query=[], order=[], field_ids=['identifier'], limit=5):
     data = response.json()
     return data
 
+print("What is the best company?")
+
+result = search(
+    endpoint="companies",
+    limit=1,
+    order=[{"field_id": "rank", "sort": "asc"}])
+
+pp(result)
+print(get_identifiers(result))
+print()
+
+print("What is the worst company?")
+
+result = search(
+    endpoint="companies",
+    limit=1,
+    order=[{"field_id": "rank", "sort": "desc"}])
+
+pp(result)
+print(get_identifiers(result))
+print()
+
 print("Worst Company with Employees between 101 to 150")
 
 result = search(
@@ -42,7 +64,7 @@ pp(result)
 print(get_identifiers(result))
 print()
 
-print("Find at least five companies that went this week.")
+print("Find at least five companies that went public this week.")
 
 result = search(
     endpoint="companies",
