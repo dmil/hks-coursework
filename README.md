@@ -27,11 +27,17 @@ file | description
 file | description
 -----|------------
 [reviewcommandline.md](reviewcommandline.md)| Review Command Line Concepts
-[functions.md](functions.md)| Review Functions
 [github.md](github.md) | Git and Github
-[frontend.md](frontend.md) | HTML, CSS, and JavaScript
 
 ## Homework
 file | description
 -----|------------
 [apireadings.md](apireadings.md) | APIs
+
+# Day 3
+file | description
+-----|------------
+[apis.md](apis.md) | APIs
+[github.md](github.md) | Git and Github
+[frontend.md](frontend.md) | HTML, CSS, and JavaScript
+[functions.md](functions.md)| Review Functions
