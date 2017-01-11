@@ -9,7 +9,11 @@ Install the following google chrome extensions.
 * [SelectorGadget](https://chrome.google.com/webstore/detail/selectorgadget/mhjhnkcfbdhnjickkkdbjoemdmbfginb)
 * [Regex Search](https://chrome.google.com/webstore/detail/regex-search/bcdabfmndggphffkchfdcekcokmbnkjl?hl=en)
 * [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=en-US)
-* [JSON View](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en)
+* [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh/related)
+
+## HTTP Requests
+
+## The FEC API
 
 ## HTTP Requests
 http://slides.com/dhrumilmehta/how-to-tell-a-story-with-data-tools-of-the-trade#/6/4
@@ -67,5 +71,6 @@ probably just about the worst format for sharing data. Here’s why:
 
 
 [Aaron Swartz’s A Programmable Web](https://goo.gl/L21hJQ): Chapter 5 - BUILDING A PLATFORM: PROVIDING APIS 
+
 
 
