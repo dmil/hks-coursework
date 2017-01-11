@@ -30,7 +30,6 @@ print("What is the best company?")
 
 result = search(
     endpoint="companies",
-    query=[],
     limit=1,
     order=[{"field_id": "rank", "sort": "asc"}])
 
@@ -42,7 +41,6 @@ print("What is the worst company?")
 
 result = search(
     endpoint="companies",
-    query=[],
     limit=1,
     order=[{"field_id": "rank", "sort": "desc"}])
 
