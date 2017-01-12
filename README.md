@@ -56,5 +56,5 @@ file | description
 ## Homework
 file | description
 -----|------------
-`projectplanning.md` | PreparingForProject
-`regex.md` | Regular Expressions
+[projectplanning.md](projectplanning.md) | PreparingForProject
+[regex.md](regex.md) | Regular Expressions
