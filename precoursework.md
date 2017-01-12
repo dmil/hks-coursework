@@ -4,7 +4,7 @@ DPI-691M: Programming and Data for Policymakers
 
 Welcome to "Programming and Data for Policymakers". I'm Dhrumil Mehta, your course instructor. I'm looking forward to meeting and working with everyone on Jan 9.
 
-Since we only have a week together in class, I have prepared some pre-work that can help us get a running start and get some logistics out of the way. Please make sure to complete the items in this todo list below before the first day of class. 
+Since we only have a week together in class, I have prepared some pre-work that can help us get a running start and get some logistics out of the way. Please make sure to complete the items in this todo list below before the first day of class.
 
 
 ## To Do

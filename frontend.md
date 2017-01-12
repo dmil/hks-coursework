@@ -1,76 +1,57 @@
 # Front-End Stack
 
-Find a dataset that is a timeseries. We're going to visualize it in a webpage.
+# Mozilla Tutorial (Together)
 
-## HTML
+### HTML
 
 [https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
 )
 
-## Try It
-
-1. Build a simple webiste with a header and a paragraph tag that describe your dataset.
-
-commit this to github
-
-## CSS
-
+### CSS
 [https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
 
-
-## Try It
-
-Give the page a nice background color. These are all valid color names [http://www.w3schools.com/colors/colors_names.asp
-](http://www.w3schools.com/colors/colors_names.asp
-) or you can use a specific RGB value. Many of these values are well known to designers.
-
-<!--
-```
-body {
-    background-color: PaleTurquoise;
-}
-```
--->
-
-commit the change to github
-
-## JavaSript
-
+### JavaScript
 [https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
-## Try It
+# Visualizing Data
 
-Create a button that displays an alert. An example can be found here.
-
-https://jsfiddle.net/Lwje81ae/2/
-
-commit this change to github
-
-
-## D3 JS
+## D3 JS (Data Driven Documents)
+D3 JS
 
 [https://d3js.org/](https://d3js.org/)
 
 [https://github.com/d3/d3/wiki/Gallery](https://github.com/d3/d3/wiki/Gallery)
 
+Grammar of Graphics
+
+[https://www.amazon.com/Grammar-Graphics-Statistics-Computing/dp/0387245448](https://www.amazon.com/Grammar-Graphics-Statistics-Computing/dp/0387245448)
+
+What D3 is Not
+
 [http://ruoyusun.com/2014/05/26/what-d3js-is-not.html](http://ruoyusun.com/2014/05/26/what-d3js-is-not.html
 )
 
-Grammar of Graphics
+## Try It (Together)
 
-## Try It
-
-Add this D3 Visualization to your webpage to visualize a timeseries.
+We're going to Build a webpage that visualizes data
 
 https://bl.ocks.org/mbostock/3902569
-
-Commit the change to github.
 
 ### Bonus
 Add two buttons to your page, one to show the chart and one to hide it
 
 ### Super duper bonus
 Make those into one button that toggles show/hide of the chart
+
+## Note
+
+Some of these pre-created D3 visualizations take in CSV format (like the simple example that we did above). Others take in a JSON format. We will be a good chunk of tomorrow practicing conversions between CSV and JSON formats using python, which will hopefully open up for your project
+
+  11. any D3 visualization that takes input as CSV or JSON (most of them)
+  2. any data source that outputs data as CSV or JSON
+
+If you find that you want to use a data visualization, but are not sure how to connect the dataset to the visualization, have someone in your project group chat with me, I'm happy to help you learn how to connect any particular visualization to any particular dataset (JSON or CSV).
+
 
 ## Organizing your Code
 

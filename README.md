@@ -40,10 +40,21 @@ file | description
 [day3setup.md](day3setup.md) | Set up for today
 [apis.md](apis.md) | APIs
 [github.md](github.md) | Git and Github
-[frontend.md](frontend.md) | HTML, CSS, and JavaScript
 
 ## Homework
 file | description
 -----|------------
 [functions.md](functions.md) | Functions in Python & JavaScript
 [http://jsforcats.com/](http://jsforcats.com/) | Intro to JavaScript
+
+## Day 4
+file | description
+-----|------------
+[frontend.md](frontend.md) | HTML, CSS, and JavaScript
+[scrapers.md](scrapers.md) | Finding hidden APIs, selecting data with CSS selectors
+
+## Homework
+file | description
+-----|------------
+`projectplanning.md` | PreparingForProject
+`regex.md` | Regular Expressions
