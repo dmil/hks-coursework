@@ -358,7 +358,7 @@ Together we will go through how to serve up your simple website.
 	
 	I would write
 	```
-	</li> <a href="http://github.com/dmil"> Mehta, Dhrumil </a> </li>
+	<li> <a href="http://github.com/dmil"> Mehta, Dhrumil </a> </li>
 	```
 4. Commit that change
 5. Issue a pull request back to the `master` branch with your change.

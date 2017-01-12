@@ -26,7 +26,7 @@ brew install node
 Ubuntu 
 
 ```
-sudo apt-get install node
+sudo apt-get install nodejs
 ```
 
 ## Defining a function
@@ -126,8 +126,16 @@ This would both print to the terminal and return a value. The return is the very
 
 9. Accept the pull request into the master branch and delete the `calculator` branch on github.
 
-10. Delete the `calculator` branch locally
-
+10. Checkout the master branch, and pull the version of master with the calculator branch merged
+	```
+	git checkout master
+	git pull
+	```
+	
+11. Delete your local version of the calculator branch
+	```
+	git branch -D calculator
+	```
 **bonus**
 
 1. Add two more functions, square and cube.
@@ -162,4 +170,13 @@ This would both print to the terminal and return a value. The return is the very
 
 9. Accept the pull request into the master branch and delete the `js-calculator` branch on github.
 
-10. Delete the `js-calculator` branch locally
+10. Checkout the master branch, and pull the version of master with the calculator branch merged
+	```
+	git checkout master
+	git pull
+	```
+	
+11. Delete your local version of the js-calculator branch
+	```
+	git branch -D js-calculator
+	```
