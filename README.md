@@ -53,6 +53,8 @@ file | description
 [frontend.md](frontend.md) | HTML, CSS, and JavaScript
 [scrapers.md](scrapers.md) | Finding hidden APIs, selecting data with CSS selectors
 
+Reference for git workflow for today [gitreference.md](gitreference.md)
+
 ## Homework
 file | description
 -----|------------
