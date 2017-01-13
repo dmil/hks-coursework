@@ -64,7 +64,7 @@ file | description
 file | description
 -----|------------
 [datatransformation.md](datatransformation.md) | Transforming Data
-[pythondata.md][pythondata.md] | more complex transformations
+[pythondata.md](pythondata.md) | more complex transformations
 [scrapers.md](scrapers.md) | Creatively Acquiring Data (if we get to it)
 - | Sprint Planning / Trello Overview
 - | Project Group Meetings
