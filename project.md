@@ -26,6 +26,14 @@ Each folder will have
 - a copy of the original data in the format you got it in
 - a copy of the final data which will be consumed by the "front end"
 
+You can find example D3 visualizations at the following places, but I'd also encourage you to google around. They're all over the internet!
+
+- http://bl.ocks.org/mbostock (Mike Bostock created D3JS, these are his examples)
+- http://bl.ocks.org/ (same website, examples by different people)
+- https://d3js.org/
+- http://christopheviau.com/d3list/gallery.html
+- https://github.com/d3/d3/wiki/Gallery
+
 ### Building a "Front-End"
 
 The front end will contain HTML, CSS, and JavaScript.
