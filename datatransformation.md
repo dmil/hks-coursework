@@ -20,6 +20,9 @@ Same as CSV, but separates values with tabs rather than commas, can also be open
 
 Another great Mozilla [tutorial](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON)
 
+![](https://www.evernote.com/shard/s150/sh/90cf283d-4adc-4f6f-aeaf-c8f2660d13c7/793cabb9f194996b/res/62dd9784-077a-45ee-8b47-c23054e2cc59/skitch.png?resizeSmall&width=832)
+source: http://stackoverflow.com/questions/4310315/what-exactly-is-json
+
 Example JSON:
 https://mdn.github.io/learning-area/javascript/oojs/json/superheroes.json
 
