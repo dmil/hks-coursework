@@ -51,7 +51,6 @@ file | description
 file | description
 -----|------------
 [frontend.md](frontend.md) | HTML, CSS, and JavaScript
-[scrapers.md](scrapers.md) | Finding hidden APIs, selecting data with CSS selectors
 
 Reference for git workflow for today [gitreference.md](gitreference.md)
 
@@ -60,3 +59,19 @@ file | description
 -----|------------
 [projectplanning.md](projectplanning.md) | PreparingForProject
 [regex.md](regex.md) | Regular Expressions
+
+## Day 5
+file | description
+-----|------------
+[datatransformation.md](datatransformation.md) | Transforming Data
+[pythondata.md](pythondata.md) | more complex transformations
+[Branching Practice](https://github.com/dmil/branching-practice) | GitHub Practice
+- | Sprint Planning / Trello Overview
+- | Project Group Meetings
+[scrapers.md](scrapers.md) | Creatively Acquiring Data (if we get to it)
+
+## Homework
+
+file | description
+-----|------------
+[project.md](project.md) | Final Project
