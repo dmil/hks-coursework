@@ -1,4 +1,4 @@
-# Working with Data in Python (Hacks)
+# Working with Data in Python
 
 There are more "correct" or conventional ways to work with data in python. If you've ever used R or STATA for statistical programming, you might want to checkout [pandas](pandas.pydata.org). This introduces the concept of a "dataframe", we're not going to do that though.
 
