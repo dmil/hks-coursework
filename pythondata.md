@@ -13,4 +13,8 @@ pip install csvmapper
 
 ### Example 1
 
+Original
 http://bl.ocks.org/mbostock/4061961
+
+Conversion from CSV to JSON
+https://github.com/dmil/conversions
