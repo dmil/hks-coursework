@@ -65,10 +65,10 @@ file | description
 -----|------------
 [datatransformation.md](datatransformation.md) | Transforming Data
 [pythondata.md](pythondata.md) | more complex transformations
-[scrapers.md](scrapers.md) | Creatively Acquiring Data (if we get to it)
 [Branching Practice](https://github.com/dmil/branching-practice) | GitHub Practice
 - | Sprint Planning / Trello Overview
 - | Project Group Meetings
+[scrapers.md](scrapers.md) | Creatively Acquiring Data (if we get to it)
 
 ## Homework
 
