@@ -70,8 +70,9 @@ file | description
 - | Project Group Meetings
 [scrapers.md](scrapers.md) | Creatively Acquiring Data (if we get to it)
 
-## Homework
+## FINAL PROJECT
 
 file | description
 -----|------------
 [project.md](project.md) | Final Project
+[projectchecklist.md](projectchecklist.md) | Checklist for Submission
