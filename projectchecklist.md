@@ -45,3 +45,7 @@ If you think your team needs additional time, I'm willing to grant an extension 
 ## Help
 
 If you need any help, I will be on Slack all of Saturday and Sunday and am also willing to Skype if you need guidance resolving any particular problems. Please don't hesitate to reach out.
+
+## Course Evaluations
+
+You should have recieved an email about the course evaluations, they are accessible through the [canvas page for this class](https://canvas.harvard.edu/). As you know, this is the first time this module was offered at HKS and a completely new curriculem. Your honest feedback will be particularly important both in helping me understand how to best improve the course as well as helping the Kennedy School better undertand the role of technical educaiton in the curriculem. Please take some time to thoughtfully fill out the course evaluation, your feedback is of particular importance in the context of this module.
