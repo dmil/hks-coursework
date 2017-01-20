@@ -14,11 +14,11 @@ In order to help you on your final stretch of the project I have created the fol
 - [ ] Burn-down chart showing number of "points" accomplished between each scrum meeting
 - [ ] Some kind of record of your scrum meetings
 - [ ] A record of your [sprint retrospective](project.md#retrospective) 
-- [ ] Link to your final project webpage on github pages
+- [ ] Link to your final project webpage on GitHub pages
 
 Please refer back to the [project.md](project.md) file for details on what each deliverable should look like.
 
-## Sprit Retrospecive
+## Sprit Retrospective
 Your final meeting with your team is a retrospective. Please submit a few retrospective items (shown below) naming things the team should start, stop, and continue doing during the "next sprint" if this was an ongoing project. If it is too difficult to coordinate another meeting with your team, feel free to have the discussion over slack and compile a few bullet points for each.
 
 
@@ -48,4 +48,4 @@ If you need any help, I will be on Slack all of Saturday and Sunday and am also 
 
 ## Course Evaluations
 
-You should have recieved an email about the course evaluations, they are accessible through the [canvas page for this class](https://canvas.harvard.edu/) and are **due on Thursday Jan 26**. As you know, this is the first time this module was offered at HKS and a completely new curriculem. Your honest feedback will be particularly important both in helping me understand how to best improve the course as well as helping the Kennedy School better undertand the role of technical educaiton in the curriculem. Please take some time to thoughtfully fill out the course evaluation, your feedback is of particular importance in the context of this module.
+You should have received an email about the course evaluations, they are accessible through the [canvas page for this class](https://canvas.harvard.edu/) and are **due on Thursday Jan 26**. As you know, this is the first time this module was offered at HKS and a completely new curriculum. Your honest feedback will be particularly important both in helping me understand how to best improve the course as well as helping the Kennedy School better understand the role of technical education in the curriculum. Please take some time to thoughtfully fill out the course evaluation, your feedback is of particular importance in the context of this module.
