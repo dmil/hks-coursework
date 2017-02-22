@@ -8,7 +8,7 @@ Install the following google chrome extensions.
 * [SelectorGadget](https://chrome.google.com/webstore/detail/selectorgadget/mhjhnkcfbdhnjickkkdbjoemdmbfginb)
 * [Regex Search](https://chrome.google.com/webstore/detail/regex-search/bcdabfmndggphffkchfdcekcokmbnkjl?hl=en)
 * [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=en-US)
-* JSON View - DO NOT DOWNLOAD, THERE IS A SECURITY VULNERABILITY
+* Json Formatter[https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa]
 
 ### Install Sublime
 - Install Sublime Text 3 if you haven't already. https://www.sublimetext.com/
