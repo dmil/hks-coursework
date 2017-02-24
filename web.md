@@ -29,7 +29,7 @@ Modifying a facebook profile picture.
 Making the Ad Go Away on Kami
 
 ```
-$("html #outerContainer.adsVisible > #mainContainer").css("right", 0);```
+$("html #outerContainer.adsVisible > #mainContainer").css("right", 0);
 ```
 Modifying CSS
 
