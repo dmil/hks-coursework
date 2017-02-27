@@ -76,3 +76,9 @@ file | description
 -----|------------
 [project.md](project.md) | Final Project
 [projectchecklist.md](projectchecklist.md) | Checklist for Submission
+
+### Final Projects
+https://ekrat.github.io/VT-Police/index.html [github](https://github.com/ekrat/VT-Police/)
+https://srikbe.github.io/education-front-end/ [github](https://github.com/srikbe/education-front-end)
+https://hkstechdevelopment.github.io/front-end-repo/ [github](https://github.com/HKSTechDevelopment/front-end-repo)
+https://hansolbach.github.io/frontend/INDEX.html [github](https://github.com/hansolbach/frontend)
