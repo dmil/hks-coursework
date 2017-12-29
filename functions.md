@@ -37,14 +37,14 @@ A function has inputs and an output. The inputs are known as the "arguments", an
 
 below is an example of a function in python
 
-```
+```python
 def multiply(a,b):
 	return a * b
 ```
 
 this is an example of the same function in  javascript
 
-```
+```javascript
 function multiply(a,b) { 
 	return (a * b)
 }
@@ -59,7 +59,7 @@ This function takes two arguments (a and b), and returns the value of them multi
 
 In the above exercise you have simply defined a function, but you haven't asked python to call it. If you ran the program above, you wouldn't see any output in the terminal.
 
-```
+```python
 # This part of the code defines a function
 def multiply(a,b):
 	return a * b
@@ -73,7 +73,7 @@ print x
 
 in JavaScript that would look like this
 
-```
+```javascript
 # This part of the code defines a function
 function multiply(a,b) { 
 	return (a * b)
