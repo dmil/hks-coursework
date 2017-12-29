@@ -74,15 +74,15 @@ print x
 in JavaScript that would look like this
 
 ```javascript
-# This part of the code defines a function
+// This part of the code defines a function
 function multiply(a,b) { 
 	return (a * b)
 }
 
-# This part of the code then calls that function and assigns the variable x to its return value
+// This part of the code then calls that function and assigns the variable x to its return value
 var x = multiply(8,9)
 
-# This prints x to the terminal for humans to read
+// This prints x to the terminal for humans to read
 console.log(x)
 ```
 
@@ -90,7 +90,7 @@ console.log(x)
 
 The function can also contain other logic and do other things. For example, you could write the function above like this:
 
-```
+```python
 def multiply(a,b):
 	print "I'm multiplying two numbers"
 	return  a * b
@@ -152,7 +152,7 @@ This would both print to the terminal and return a value. The return is the very
 
 5. At the bottom of the file, Call the function and print a line explaining what is happening. Like this:
 	
-	```
+	```javascript
 	console.log("I'm going use the calculator functions to multiply 5 and 6")
 	var x = multiply(5,6)
 	console.log(x)
