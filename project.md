@@ -146,7 +146,7 @@ https://github.com/dmil/example-charts
 
 ## Availability
 
-I am on campus at least Saturday and Sunday and available to meet either in person or via video chat. My office is in "Belfer Lobby 2A" which is located to the right of the Belfer entrance. Just shoot me a message on slack letting me know you're coming and I can arrange to meet you there or can help remotely via slack. After Monday, I can assist with projects remotely, however I will be back at work in New York, so I won't be able to be nearly as responsive until the evenings.
+I am on campus at least Saturday and Sunday and available to meet either in person or via video chat. My office is in "Belfer Lobby 2A" which is located to the right of the Belfer entrance. Just shoot me a message on slack letting me know you're coming and I can arrange to meet you there or can help remotely via slack.
 
 ## Final Note
 I'm hoping that your projects will not only demonstrate your newly acquired technical abilities, but also will tell a coherent story, advocate for a position, or otherwise communicate an issue in a meaningful way. The project should show that you are able to use these technical skills meaningfully in the context of your policy education.
